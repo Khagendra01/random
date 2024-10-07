@@ -31,7 +31,7 @@ Only respond to earthquake and seismology-related questions. For unrelated topic
     ])
 
     # Create the language model
-    llm = ChatOpenAI(model_name="gpt-4o", api_key=os.getenv("OPENAI_API_KEY"))
+    llm = ChatOpenAI(model_name="gpt-4o", api_key="sT3BlbkFJ7rI_1M5reUx8kuB4A")
 
     # Create the chain
     chain = LLMChain(llm=llm, prompt=prompt_template)
