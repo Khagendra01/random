@@ -81,16 +81,8 @@ jupyter_core==5.7.2
 keras==3.6.0
 kombu==5.4.1
 kubernetes==30.1.0
-<<<<<<< HEAD
 langchain
 langchain-community
-=======
-langchain==0.3.2
-langchain-community==0.3.1
-langchain-core==0.3.9
-langchain-text-splitters==0.3.0
-langsmith==0.1.131
->>>>>>> refs/remotes/origin/main
 libclang==18.1.1
 Markdown==3.7
 markdown-it-py==3.0.0
